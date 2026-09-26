@@ -1,6 +1,6 @@
 # Hotel Booking Confirmation Page
 
-A responsive hotel booking confirmation page built as a solution to a [Frontend Mentor](https://www.frontendmentor.io/) challenge.
+A responsive hotel booking confirmation page built as a solution to a [Frontend Mentor](https://www.frontendmentor.io/challenges/hotel-booking-confirmation-page) challenge.
 
 ## 🛠️ Built With
 
@@ -25,7 +25,7 @@ The page is designed to adapt smoothly from small mobile screens to very large d
 
 ## 🚀 Live Demo
 
-[View Live Project](YOUR_GITHUB_PAGES_LINK)
+[View Live Project](https://shaiksajida124.github.io/Hotel-Booking-confirmation-page-FM/)
 
 ## 📚 What I Practiced
 
@@ -34,7 +34,4 @@ The page is designed to adapt smoothly from small mobile screens to very large d
 - Responsive design
 - Media queries
 - Building a page from a design
-
-## 🎯 Challenge
-
-[View the Frontend Mentor Challenge](YOUR_FRONTEND_MENTOR_LINK)
+  
